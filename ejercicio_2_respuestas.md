@@ -8,10 +8,10 @@
 - En el archivo index.js importaría {BrowserRouter as Router, Routes, Route},  
  luego modificaría el ReactDom para que quede de la siguiente manera:  
 ReactDOM.render(  
-  <Router>
-    <Routes>
-      <Route path='/' element={<Dashboard/>} />  
-      <Route path='/About' element={<About/>} />  
+  < Router>
+    < Routes>
+      < Route path='/' element={<Dashboard/>} />  
+      < Route path='/About' element={<About/>} />  
     </ Routes>  
   </ Router>  
   ,document.getElementById("root")  
