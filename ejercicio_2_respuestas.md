@@ -1,6 +1,6 @@
 ## 2.1) ¿Cómo implementarías las acciones del frontend utilizando redux? (por ejemplo autenticación, solicitud de clientes activos para el usuario y solicitud de casos por cliente)
 
-- No se aprendi a utilizar redux por el momento.
+- No aprendí a utilizar redux por el momento.
 
 ## 2.2) Si quisiéramos agregar una ruta nueva a la app, ¿cómo reestructurarías el index.js?
 
